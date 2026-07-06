@@ -26,7 +26,6 @@ const formNote = document.getElementById('formNote');
 
 if (form) {
   form.addEventListener('submit', (e) => {
-    e.preventDefault();
     formNote.textContent = "Thanks — this is a demo submission. Connect a form handler (see README.md) to receive real messages.";
     formNote.style.color = '#C9A24B';
     form.reset();
