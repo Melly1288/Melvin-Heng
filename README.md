@@ -53,7 +53,7 @@ Formspree's free tier delivers submissions straight to your email — no direct 
 5. GitHub gives you a live URL within a minute or two, typically:
    `https://<your-username>.github.io/melvin-heng-site/`
 
-That's your live site link to share.
+That's your live site link to share. 
 
 ## Notes
 - All four "pages" are sections on one scrolling page with anchor navigation (Home / About / Services / Contact), matching the structure of your original Figma mockup.
